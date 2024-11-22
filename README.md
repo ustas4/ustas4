@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ustas4
-- 👀 I’m interested in help in react
-- 🌱 I’m currently learning tableau extensions
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in help in mesop
+- 🌱 I’m currently learning python
+- 💞️ I’m not looking to collaborate.
 - 📫 How to reach me stanislav.ginzburg@gmail.com
 
 <!---
